@@ -29,13 +29,14 @@ Star UML
 
 ### Class diagram
 <img width="1116" height="897" alt="image" src="https://github.com/user-attachments/assets/fbc9c1a8-1ea8-4c14-b004-44487d6b05b5" />
+#### Sequence diagram
+
+<img width="1209" height="883" alt="image" src="https://github.com/user-attachments/assets/2ab111a4-b881-4e26-8ef0-0a44f5144d67" />
 
 #### Activity diagram
 
 <img width="662" height="896" alt="image" src="https://github.com/user-attachments/assets/92db34e1-005a-4b00-8d3e-f518a6574ed1" />
-### Sequence diagram
 
-<img width="1209" height="883" alt="image" src="https://github.com/user-attachments/assets/2ab111a4-b881-4e26-8ef0-0a44f5144d67" />
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
