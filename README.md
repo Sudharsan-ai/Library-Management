@@ -26,7 +26,11 @@ Star UML
 
 <img width="843" height="900" alt="image" src="https://github.com/user-attachments/assets/8dfc4b85-d068-4210-ac14-fceb1c9219b3" />
 
+### Class diagram
+<img width="1116" height="897" alt="image" src="https://github.com/user-attachments/assets/fbc9c1a8-1ea8-4c14-b004-44487d6b05b5" />
+
 #### Activity diagram
+
 <img width="662" height="896" alt="image" src="https://github.com/user-attachments/assets/92db34e1-005a-4b00-8d3e-f518a6574ed1" />
 
 
