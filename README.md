@@ -22,6 +22,10 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
+#### Usecase diagram
+
+<img width="843" height="900" alt="image" src="https://github.com/user-attachments/assets/8dfc4b85-d068-4210-ac14-fceb1c9219b3" />
+
 #### Activity diagram
 <img width="662" height="896" alt="image" src="https://github.com/user-attachments/assets/92db34e1-005a-4b00-8d3e-f518a6574ed1" />
 
